@@ -12,7 +12,7 @@ export default function App() {
       how many times you click it:
       <br />
       <br />
-      <button onClick={() => setCount(count + 1)}>{count}</button>
+      <button onClick={() => setCount(count + 2)}>{count}</button>
     </div>
   );
 }
